@@ -7,8 +7,8 @@ __Insert good description here__
 ## To-Do
 
 __TODO before version 0.1.0__
-- [ ] Make a game window
-- [ ] Get the Pokemon Sprites from [PMD Sprites](https://sprites.pmdcollab.org/) or their associated git repository, [PMD Sprites Github](https://github.com/PMDCollab/SpriteCollab).
+- [X] Make a game window
+- [X] Get the Pokemon Sprites from [PMD Sprites](https://sprites.pmdcollab.org/) or their associated git repository, [PMD Sprites Github](https://github.com/PMDCollab/SpriteCollab).
 - [ ] Add functionallity to draw any sprite in the game window
 - [ ] Temp list item
 
