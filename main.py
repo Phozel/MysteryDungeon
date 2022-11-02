@@ -1,14 +1,15 @@
 from View import View
 
 def print_hi(name):
-    print(f'Hi, {name}')
+    print(f'You are playing: {name}')
 
-def testView():
-    view = View.View()
-    view.showView()
+def testView(size):
+    view = View.View(size)
+    view.showWindow()
 
 
 if __name__ == '__main__':
     print_hi('Mystery Dungeon')
-    testView()
+    size = 1080, 720
+    testView(size)
 
