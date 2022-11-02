@@ -10,6 +10,6 @@ def testView(size):
 
 if __name__ == '__main__':
     print_hi('Mystery Dungeon')
-    size = 1080, 720
+    size = 720, 720
     testView(size)
 
